@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Recipes>
+	<Recipe>
+		<Ingredients>
+			<Ingredient Name="Log" Count="1" />
+		</Ingredients>
+		<Result Name="Board" Count="4" />
+	</Recipe>
+</Recipes>
