@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<Items>
+<ItemData>
   <Item Name="Animal Pants" IsIngredient="false" IsResult="true" />
   <Item Name="Animal Pelt" IsIngredient="false" IsResult="true" />
   <Item Name="Animal Shirt" IsIngredient="false" IsResult="true" />
@@ -198,4 +198,4 @@
   <Item Name="Yuri Magazine" IsIngredient="true" IsResult="true" />
 
   <Item Name="Zoomomatic" IsIngredient="false" IsResult="true" />
-</Items>
+</ItemData>

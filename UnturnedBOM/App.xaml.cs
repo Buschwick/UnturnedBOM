@@ -5,6 +5,8 @@ using System.Data;
 using System.IO;
 using System.Linq;
 using System.Windows;
+using System.Windows.Resources;
+using System.Xml.Serialization;
 
 namespace UnturnedBOM
 {
@@ -15,7 +17,7 @@ namespace UnturnedBOM
     {
         protected override void OnStartup(StartupEventArgs e)
         {
-            
+            MainWindowViewModel vm = new MainWindowViewModel();
         }
     }
 }

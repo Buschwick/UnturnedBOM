@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<Recipes>
-	<Recipe>
-		<Ingredients>
-			<Ingredient Name="Log" Count="1" />
-		</Ingredients>
+<RecipeData>
+	<Recipe Name="Board">
+		<Ingredient Name="Log" />
 		<Result Name="Board" Count="4" />
 	</Recipe>
-</Recipes>
+
+  <Recipe Name="Stick" Tool="Handsaw">
+    <Ingredient Name="Log" />
+    <Result Name="Stick" Count="4" />
+  </Recipe>
+
+  <Recipe Name="Nails">
+    <Ingredient Name="Log" />
+    <Result Name="Nails" Count="2" />
+  </Recipe>
+
+  <Recipe Name="Bolts" Tool="Fire">
+    <Ingredient Name="Scrap Metal" />
+    <Result Name="Bolts" Count="2" />
+  </Recipe>
+
+  <Recipe Name="Duct Tape">
+    <Ingredient Name="Animal Pelt" />
+    <Ingredient Name="Can" />
+    <Result Name="Duct Tape" />
+  </Recipe>
+
+  <Recipe Name="MOAB" CraftLvl="2">
+    <Ingredient Name="Raw Explosives" Count="3" />
+    <Ingredient Name="Duct Tape" Count="2" />
+    <Result Name="MOAB" />
+  </Recipe>
+</RecipeData>
