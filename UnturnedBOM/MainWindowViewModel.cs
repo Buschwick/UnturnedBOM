@@ -6,8 +6,7 @@ using System.Text;
 using System.Windows;
 using System.Windows.Resources;
 using System.Xml.Serialization;
-using UnturnedBOM.Model.Item;
-using UnturnedBOM.Model.Recipe;
+using UnturnedBOM.Model;
 
 namespace UnturnedBOM
 {
@@ -36,7 +35,10 @@ namespace UnturnedBOM
         public MainWindowViewModel()
         {
             ItemCollection = LoadData<ItemData>(@"/Data/items.xml");
-            //RecipeCollection = LoadData<RecipeData>(@"/Data/recipes.xml");
+            RecipeCollection = LoadData<RecipeData>(@"/Data/recipes.xml");
+
+            Crafting.AddItems(ItemCollection);
+            Crafting.AddRecipes(RecipeCollection);
         }
     }
 }

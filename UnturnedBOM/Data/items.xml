@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <ItemData>
-  <Item Name="Animal Pants" IsIngredient="false" IsResult="true" />
-  <Item Name="Animal Pelt" IsIngredient="false" IsResult="true" />
-  <Item Name="Animal Shirt" IsIngredient="false" IsResult="true" />
-  <Item Name="Animalpack" IsIngredient="false" IsResult="true" />
-  <Item Name="Army Fatigues (Pants)" IsIngredient="true" IsResult="false" />
-  <Item Name="Army Fatigues (Shirt)" IsIngredient="true" IsResult="false" />
-  <Item Name="Arrow" IsIngredient="false" IsResult="true" />
+ <Item Name="Animal Pants" IsResult="true" />
+ <Item Name="Animal Pelt" IsResult="true" />
+ <Item Name="Animal Shirt" IsResult="true" />
+ <Item Name="Animalpack" IsResult="true" />
+ <Item Name="Army Fatigues (Pants)" IsIngredient="true" />
+ <Item Name="Army Fatigues (Shirt)" IsIngredient="true" />
+ <Item Name="Arrow" IsResult="true" />
 
-  <Item Name="Bandage" IsIngredient="true" IsResult="true" />
-  <Item Name="Barbed Wire" IsIngredient="false" IsResult="true" />
-  <Item Name="Batteries" IsIngredient="true" IsResult="false" />
-  <Item Name="Binoculars" IsIngredient="true" IsResult="false" />
-  <Item Name="Blue Berries" IsIngredient="true" IsResult="false" />
-  <Item Name="Blue Sweatervest" IsIngredient="true" IsResult="false" />
-  <Item Name="Board" IsIngredient="true" IsResult="true" />
-  <Item Name="Bolts" IsIngredient="true" IsResult="true" />
-  <Item Name="Bonjour Clip" IsIngredient="true" IsResult="true" />
-  <Item Name="Boring Pants" IsIngredient="true" IsResult="false" />
-  <Item Name="Boring Suit" IsIngredient="true" IsResult="false" />
-  <Item Name="Bottled Water" IsIngredient="true" IsResult="true" />
-  <Item Name="Branch" IsIngredient="true" IsResult="false" />
-  <Item Name="Brazier" IsIngredient="false" IsResult="true" />
-  <Item Name="Brown Pants" IsIngredient="true" IsResult="false" />
-  <Item Name="Buckshot" IsIngredient="false" IsResult="true" />
+ <Item Name="Bandage" IsIngredient="true" IsResult="true" />
+ <Item Name="Barbed Wire" IsResult="true" />
+ <Item Name="Batteries" IsIngredient="true" />
+ <Item Name="Binoculars" IsIngredient="true" />
+ <Item Name="Blue Berries" IsIngredient="true" />
+ <Item Name="Blue Sweatervest" IsIngredient="true" />
+ <Item Name="Board" IsIngredient="true" IsResult="true" />
+ <Item Name="Bolts" IsIngredient="true" IsResult="true" />
+ <Item Name="Bonjour Clip" IsIngredient="true" IsResult="true" />
+ <Item Name="Boring Pants" IsIngredient="true" />
+ <Item Name="Boring Suit" IsIngredient="true" />
+ <Item Name="Bottled Water" IsIngredient="true" IsResult="true" />
+ <Item Name="Branch" IsIngredient="true" />
+ <Item Name="Brazier" IsResult="true" />
+ <Item Name="Brown Pants" IsIngredient="true" />
+ <Item Name="Buckshot" IsResult="true" />
 
-  <Item Name="Cabbage Seed" IsIngredient="false" IsResult="true" />
-  <Item Name="Caltrop" IsIngredient="false" IsResult="true" />
-  <Item Name="Campfire" IsIngredient="false" IsResult="true" />
-  <Item Name="Can" IsIngredient="true" IsResult="false" />
-  <Item Name="Canned Cola" IsIngredient="true" IsResult="false" />
-  <Item Name="Canteen" IsIngredient="false" IsResult="true" />
-  <Item Name="Car Jack" IsIngredient="false" IsResult="true" />
-  <Item Name="Carrot Seed" IsIngredient="false" IsResult="true" />
-  <Item Name="Chef Pants" IsIngredient="true" IsResult="false" />
-  <Item Name="Chef Shirt" IsIngredient="true" IsResult="false" />
-  <Item Name="Chest" IsIngredient="false" IsResult="true" />
-  <Item Name="Civilian Bullets" IsIngredient="true" IsResult="false" />
-  <Item Name="Cloth" IsIngredient="true" IsResult="true" />
-  <Item Name="Cooked Bacon" IsIngredient="false" IsResult="true" />
-  <Item Name="Cooked Venison" IsIngredient="false" IsResult="true" />
-  <Item Name="Corn Seed" IsIngredient="false" IsResult="true" />
-  <Item Name="Cot" IsIngredient="false" IsResult="true" />
-  <Item Name="Crate" IsIngredient="true" IsResult="true" />
-  <Item Name="Crushed Blue Berries" IsIngredient="false" IsResult="true" />
-  <Item Name="Crushed Green Berries" IsIngredient="false" IsResult="true" />
-  <Item Name="Crushed Pale Berries" IsIngredient="false" IsResult="true" />
-  <Item Name="Crushed Pink Berries" IsIngredient="false" IsResult="true" />
-  <Item Name="Crushed Purple Berries" IsIngredient="false" IsResult="true" />
-  <Item Name="Crushed Red Berries" IsIngredient="false" IsResult="true" />
+ <Item Name="Cabbage Seed" IsResult="true" />
+ <Item Name="Caltrop" IsResult="true" />
+ <Item Name="Campfire" IsResult="true" />
+ <Item Name="Can" IsIngredient="true" />
+ <Item Name="Canned Cola" IsIngredient="true" />
+ <Item Name="Canteen" IsResult="true" />
+ <Item Name="Car Jack" IsResult="true" />
+ <Item Name="Carrot Seed" IsResult="true" />
+ <Item Name="Chef Pants" IsIngredient="true" />
+ <Item Name="Chef Shirt" IsIngredient="true" />
+ <Item Name="Chest" IsResult="true" />
+ <Item Name="Civilian Bullets" IsIngredient="true" />
+ <Item Name="Cloth" IsIngredient="true" IsResult="true" />
+ <Item Name="Cooked Bacon" IsResult="true" />
+ <Item Name="Cooked Venison" IsResult="true" />
+ <Item Name="Corn Seed" IsResult="true" />
+ <Item Name="Cot" IsResult="true" />
+ <Item Name="Crate" IsIngredient="true" IsResult="true" />
+ <Item Name="Crushed Blue Berries" IsResult="true" />
+ <Item Name="Crushed Green Berries" IsResult="true" />
+ <Item Name="Crushed Pale Berries" IsResult="true" />
+ <Item Name="Crushed Pink Berries" IsResult="true" />
+ <Item Name="Crushed Purple Berries" IsResult="true" />
+ <Item Name="Crushed Red Berries" IsResult="true" />
 
-  <Item Name="Doctor Coat" IsIngredient="true" IsResult="false" />
-  <Item Name="Doctor Pants" IsIngredient="true" IsResult="false" />
-  <Item Name="Dressing" IsIngredient="false" IsResult="true" />
-  <Item Name="Duct Tape" IsIngredient="true" IsResult="true" />
+ <Item Name="Doctor Coat" IsIngredient="true" />
+ <Item Name="Doctor Pants" IsIngredient="true" />
+ <Item Name="Dressing" IsResult="true" />
+ <Item Name="Duct Tape" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Electric Fence" IsIngredient="false" IsResult="true" />
-  <Item Name="Electric Trap" IsIngredient="false" IsResult="true" />
+ <Item Name="Electric Fence" IsResult="true" />
+ <Item Name="Electric Trap" IsResult="true" />
 
-  <Item Name="Fancy Jeans" IsIngredient="true" IsResult="false" />
-  <Item Name="Fancy Suit" IsIngredient="true" IsResult="false" />
-  <Item Name="Fertilizer" IsIngredient="false" IsResult="true" />
-  <Item Name="Frag Grenade" IsIngredient="false" IsResult="true" />
-  <Item Name="Fresh Cabbage" IsIngredient="true" IsResult="false" />
-  <Item Name="Fresh Carrot" IsIngredient="true" IsResult="false" />
-  <Item Name="Fresh Corn" IsIngredient="true" IsResult="false" />
-  <Item Name="Fresh Potato" IsIngredient="true" IsResult="false" />
-  <Item Name="Fresh Tomato" IsIngredient="true" IsResult="false" />
+ <Item Name="Fancy Jeans" IsIngredient="true" />
+ <Item Name="Fancy Suit" IsIngredient="true" />
+ <Item Name="Fertilizer" IsResult="true" />
+ <Item Name="Frag Grenade" IsResult="true" />
+ <Item Name="Fresh Cabbage" IsIngredient="true" />
+ <Item Name="Fresh Carrot" IsIngredient="true" />
+ <Item Name="Fresh Corn" IsIngredient="true" />
+ <Item Name="Fresh Potato" IsIngredient="true" />
+ <Item Name="Fresh Tomato" IsIngredient="true" />
 
-  <Item Name="Garage Door" IsIngredient="false" IsResult="true" />
-  <Item Name="Garage Port" IsIngredient="false" IsResult="true" />
-  <Item Name="Green Berries" IsIngredient="true" IsResult="false" />
-  <Item Name="Greenhouse Foundation" IsIngredient="false" IsResult="true" />
-  <Item Name="Greenhouse Platform" IsIngredient="false" IsResult="true" />
-  <Item Name="Grey Pants" IsIngredient="true" IsResult="false" />
-  <Item Name="Grocer Bottom" IsIngredient="true" IsResult="false" />
-  <Item Name="Grocer Top" IsIngredient="true" IsResult="false" />
+ <Item Name="Garage Door" IsResult="true" />
+ <Item Name="Garage Port" IsResult="true" />
+ <Item Name="Green Berries" IsIngredient="true" />
+ <Item Name="Greenhouse Foundation" IsResult="true" />
+ <Item Name="Greenhouse Platform" IsResult="true" />
+ <Item Name="Grey Pants" IsIngredient="true" />
+ <Item Name="Grocer Bottom" IsIngredient="true" />
+ <Item Name="Grocer Top" IsIngredient="true" />
 
-  <Item Name="Handlamp" IsIngredient="true" IsResult="true" />
+ <Item Name="Handlamp" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Jumper Bottom" IsIngredient="true" IsResult="false" />
-  <Item Name="Jumper Top" IsIngredient="true" IsResult="false" />
+ <Item Name="Jumper Bottom" IsIngredient="true" />
+ <Item Name="Jumper Top" IsIngredient="true" />
 
-  <Item Name="Khaki Pants" IsIngredient="true" IsResult="false" />
+ <Item Name="Khaki Pants" IsIngredient="true" />
 
-  <Item Name="Landmine" IsIngredient="false" IsResult="true" />
-  <Item Name="Lapua Magazine" IsIngredient="true" IsResult="true" />
-  <Item Name="Lapua Tracer" IsIngredient="true" IsResult="true" />
-  <Item Name="Lebel Magazine" IsIngredient="true" IsResult="true" />
-  <Item Name="Log" IsIngredient="true" IsResult="false" />
-  <Item Name="Longbow" IsIngredient="false" IsResult="true" />
-  <Item Name="Lumberjack Pants" IsIngredient="true" IsResult="false" />
+ <Item Name="Landmine" IsResult="true" />
+ <Item Name="Lapua Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="Lapua Tracer" IsIngredient="true" IsResult="true" />
+ <Item Name="Lebel Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="Log" IsIngredient="true" />
+ <Item Name="Longbow" IsResult="true" />
+ <Item Name="Lumberjack Pants" IsIngredient="true" />
 
-  <Item Name="Metal Door" IsIngredient="false" IsResult="true" />
-  <Item Name="Metal Garage Door" IsIngredient="false" IsResult="true" />
-  <Item Name="Metal Locker" IsIngredient="false" IsResult="true" />
-  <Item Name="Metal Shield" IsIngredient="false" IsResult="true" />
-  <Item Name="Metal Shutter" IsIngredient="true" IsResult="true" />
-  <Item Name="Military Bullets" IsIngredient="true" IsResult="false" />
-  <Item Name="Milk" IsIngredient="false" IsResult="true" />
-  <Item Name="MOAB" IsIngredient="false" IsResult="true" />
-  <Item Name="Moldy Bottled Water" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Cabbage" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Carrot" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Corn" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Milk" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Orange Juice" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Potato" IsIngredient="true" IsResult="false" />
-  <Item Name="Moldy Tomato" IsIngredient="true" IsResult="false" />
-  <Item Name="Muffler" IsIngredient="false" IsResult="true" />
-  
-  <Item Name="Nails" IsIngredient="true" IsResult="true" />
-  <Item Name="NATO Drum" IsIngredient="true" IsResult="true" />
-  <Item Name="NATO Magazine" IsIngredient="true" IsResult="true" />
-  <Item Name="NATO Tracer" IsIngredient="true" IsResult="true" />
+ <Item Name="Metal Door" IsResult="true" />
+ <Item Name="Metal Garage Door" IsResult="true" />
+ <Item Name="Metal Locker" IsResult="true" />
+ <Item Name="Metal Shield" IsResult="true" />
+ <Item Name="Metal Shutter" IsIngredient="true" IsResult="true" />
+ <Item Name="Military Bullets" IsIngredient="true" />
+ <Item Name="Milk" IsResult="true" />
+ <Item Name="MOAB" IsResult="true" />
+ <Item Name="Moldy Bottled Water" IsIngredient="true" />
+ <Item Name="Moldy Cabbage" IsIngredient="true" />
+ <Item Name="Moldy Carrot" IsIngredient="true" />
+ <Item Name="Moldy Corn" IsIngredient="true" />
+ <Item Name="Moldy Milk" IsIngredient="true" />
+ <Item Name="Moldy Orange Juice" IsIngredient="true" />
+ <Item Name="Moldy Potato" IsIngredient="true" />
+ <Item Name="Moldy Tomato" IsIngredient="true" />
+ <Item Name="Muffler" IsResult="true" />
+ 
+ <Item Name="Nails" IsIngredient="true" IsResult="true" />
+ <Item Name="NATO Drum" IsIngredient="true" IsResult="true" />
+ <Item Name="NATO Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="NATO Tracer" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Orange Hoodie" IsIngredient="true" IsResult="false" />
-  <Item Name="Orange Juice" IsIngredient="false" IsResult="true" />
+ <Item Name="Orange Hoodie" IsIngredient="true" />
+ <Item Name="Orange Juice" IsResult="true" />
 
-  <Item Name="Pale Berries" IsIngredient="true" IsResult="false" />
-  <Item Name="Pink Berries" IsIngredient="true" IsResult="false" />
-  <Item Name="Pink Shirt" IsIngredient="true" IsResult="false" />
-  <Item Name="Plaid Shirt" IsIngredient="true" IsResult="false" />
-  <Item Name="Police Uniform (Pants)" IsIngredient="true" IsResult="false" />
-  <Item Name="Police Uniform (Shirt)" IsIngredient="true" IsResult="false" />
-  <Item Name="Purification Tablets" IsIngredient="true" IsResult="false" />
-  <Item Name="Purple Berries" IsIngredient="true" IsResult="false" />
-  <Item Name="Potato Seed" IsIngredient="false" IsResult="true" />
+ <Item Name="Pale Berries" IsIngredient="true" />
+ <Item Name="Pink Berries" IsIngredient="true" />
+ <Item Name="Pink Shirt" IsIngredient="true" />
+ <Item Name="Plaid Shirt" IsIngredient="true" />
+ <Item Name="Police Uniform (Pants)" IsIngredient="true" />
+ <Item Name="Police Uniform (Shirt)" IsIngredient="true" />
+ <Item Name="Purification Tablets" IsIngredient="true" />
+ <Item Name="Purple Berries" IsIngredient="true" />
+ <Item Name="Potato Seed" IsResult="true" />
 
-  <Item Name="Rag" IsIngredient="true" IsResult="true" />
-  <Item Name="Raw Bacon" IsIngredient="true" IsResult="false" />
-  <Item Name="Raw Explosives" IsIngredient="true" IsResult="false" />
-  <Item Name="Raw Venison" IsIngredient="true" IsResult="false" />
-  <Item Name="RCMP Uniform (Pants)" IsIngredient="true" IsResult="false" />
-  <Item Name="RCMP Uniform (Shirt)" IsIngredient="true" IsResult="false" />
-  <Item Name="Red Berries" IsIngredient="true" IsResult="false" />
-  <Item Name="Rocks" IsIngredient="true" IsResult="false" />
-  <Item Name="Rope" IsIngredient="true" IsResult="true" />
+ <Item Name="Rag" IsIngredient="true" IsResult="true" />
+ <Item Name="Raw Bacon" IsIngredient="true" />
+ <Item Name="Raw Explosives" IsIngredient="true" />
+ <Item Name="Raw Venison" IsIngredient="true" />
+ <Item Name="RCMP Uniform (Pants)" IsIngredient="true" />
+ <Item Name="RCMP Uniform (Shirt)" IsIngredient="true" />
+ <Item Name="Red Berries" IsIngredient="true" />
+ <Item Name="Rocks" IsIngredient="true" />
+ <Item Name="Rope" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Sailor Fatigues" IsIngredient="true" IsResult="false" />
-  <Item Name="Savage Drum" IsIngredient="true" IsResult="true" />
-  <Item Name="Savage Magazine" IsIngredient="true" IsResult="true" />
-  <Item Name="Scrap Metal" IsIngredient="true" IsResult="true" />
-  <Item Name="Shells" IsIngredient="true" IsResult="false" />
-  <Item Name="Sledgehammer" IsIngredient="true" IsResult="false" />
-  <Item Name="Sleeping Bag" IsIngredient="false" IsResult="true" />
-  <Item Name="Slug" IsIngredient="false" IsResult="true" />
-  <Item Name="Snare" IsIngredient="false" IsResult="true" />
-  <Item Name="Splint" IsIngredient="false" IsResult="true" />
-  <Item Name="Stick" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Cross" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Doorway" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Frame" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Pillar" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Plate" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Post" IsIngredient="false" IsResult="true" />
-  <Item Name="Stone Rampart" IsIngredient="false" IsResult="true" />
-  <Item Name="Stone Support" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Wall" IsIngredient="true" IsResult="true" />
-  <Item Name="Stone Window" IsIngredient="false" IsResult="true" />
-  <Item Name="Swift Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="Sailor Fatigues" IsIngredient="true" />
+ <Item Name="Savage Drum" IsIngredient="true" IsResult="true" />
+ <Item Name="Savage Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="Scrap Metal" IsIngredient="true" IsResult="true" />
+ <Item Name="Shells" IsIngredient="true" />
+ <Item Name="Sledgehammer" IsIngredient="true" />
+ <Item Name="Sleeping Bag" IsResult="true" />
+ <Item Name="Slug" IsResult="true" />
+ <Item Name="Snare" IsResult="true" />
+ <Item Name="Splint" IsResult="true" />
+ <Item Name="Stick" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Cross" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Doorway" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Frame" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Pillar" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Plate" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Post" IsResult="true" />
+ <Item Name="Stone Rampart" IsResult="true" />
+ <Item Name="Stone Support" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Wall" IsIngredient="true" IsResult="true" />
+ <Item Name="Stone Window" IsResult="true" />
+ <Item Name="Swift Magazine" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Tactical Light" IsIngredient="false" IsResult="true" />
-  <Item Name="Tomato Seed" IsIngredient="false" IsResult="true" />
-  <Item Name="Tracer Bullets" IsIngredient="true" IsResult="false" />
-  <Item Name="Tripmine" IsIngredient="false" IsResult="true" />
+ <Item Name="Tactical Light" IsResult="true" />
+ <Item Name="Tomato Seed" IsResult="true" />
+ <Item Name="Tracer Bullets" IsIngredient="true" />
+ <Item Name="Tripmine" IsResult="true" />
 
-  <Item Name="Winchester Clip" IsIngredient="true" IsResult="true" />
-  <Item Name="Wire" IsIngredient="true" IsResult="true" />
-  <Item Name="Wire Fence" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Cross" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Door" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Doorway" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Foundation" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Frame" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Hole" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Ladder" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Pillar" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Plate" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Platform" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Post" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Ramp" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Rampart" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Shield" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Shutter" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Spike" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Spike Trap" IsIngredient="false" IsResult="true" />
-  <Item Name="Wooden Support" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Wall" IsIngredient="true" IsResult="true" />
-  <Item Name="Wooden Window" IsIngredient="true" IsResult="true" />
-  <Item Name="Work Jeans" IsIngredient="true" IsResult="false" />
+ <Item Name="Winchester Clip" IsIngredient="true" IsResult="true" />
+ <Item Name="Wire" IsIngredient="true" IsResult="true" />
+ <Item Name="Wire Fence" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Cross" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Door" IsResult="true" />
+ <Item Name="Wooden Doorway" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Foundation" IsResult="true" />
+ <Item Name="Wooden Frame" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Hole" IsResult="true" />
+ <Item Name="Wooden Ladder" IsResult="true" />
+ <Item Name="Wooden Pillar" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Plate" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Platform" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Post" IsResult="true" />
+ <Item Name="Wooden Ramp" IsResult="true" />
+ <Item Name="Wooden Rampart" IsResult="true" />
+ <Item Name="Wooden Shield" IsResult="true" />
+ <Item Name="Wooden Shutter" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Spike" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Spike Trap" IsResult="true" />
+ <Item Name="Wooden Support" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Wall" IsIngredient="true" IsResult="true" />
+ <Item Name="Wooden Window" IsIngredient="true" IsResult="true" />
+ <Item Name="Work Jeans" IsIngredient="true" />
 
-  <Item Name="Xtrmin Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="Xtrmin Magazine" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Yuri Magazine" IsIngredient="true" IsResult="true" />
+ <Item Name="Yuri Magazine" IsIngredient="true" IsResult="true" />
 
-  <Item Name="Zoomomatic" IsIngredient="false" IsResult="true" />
+ <Item Name="Zoomomatic" IsResult="true" />
 </ItemData>

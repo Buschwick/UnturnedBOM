@@ -7,6 +7,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Resources;
 using System.Xml.Serialization;
+using UnturnedBOM.Model;
 
 namespace UnturnedBOM
 {

@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace UnturnedBOM.Model.Item
+namespace UnturnedBOM.Model
 {
-    public class ItemData
+    public class RecipeData
     {
-        [XmlElement("Item")]
-        public Item[] Items { get; set; }
+        [XmlElement("Recipe")]
+        public Recipe[] Recipes { get; set; }
     }
 }

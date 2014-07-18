@@ -52,11 +52,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Model\Item\ItemData.cs" />
-    <Compile Include="Model\Recipe\Ingredient.cs" />
-    <Compile Include="Model\Recipe\Recipe.cs" />
-    <Compile Include="Model\Recipe\RecipeData.cs" />
-    <Compile Include="Model\Recipe\Result.cs" />
+    <Compile Include="DeepCopy.cs" />
+    <Compile Include="Model\Crafting.cs" />
+    <Compile Include="Model\ItemData.cs" />
+    <Compile Include="Model\Ingredient.cs" />
+    <Compile Include="Model\ItemStack.cs" />
+    <Compile Include="Model\Recipe.cs" />
+    <Compile Include="Model\RecipeData.cs" />
+    <Compile Include="Model\Result.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -65,7 +68,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Model\Item\Item.cs" />
+    <Compile Include="Model\Item.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

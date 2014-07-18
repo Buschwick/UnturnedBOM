@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace UnturnedBOM.Model.Recipe
+namespace UnturnedBOM.Model
 {
-    public class Ingredient
+    public class Result
     {
         [XmlAttribute("Name")]
         public string Name { get; set; }
